@@ -1,4 +1,4 @@
-const btnNav =document.getElementById('navResponsive')
+const btnNav = document.getElementById('navResponsive')
 function abrirMenu(event){
 
     if(event.type === 'touchstart') event.preventDefault()
